@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class GitHubClass 
 {
-@Test
+@Test  
 public void method1()
 {
 	System.out.println("this is github class");
