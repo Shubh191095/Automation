@@ -61,7 +61,7 @@ public class TestBaseClass
         
     lp.sendUsername();        //user-name
     //Thread.sleep(2000);  
-    //System.out.println("Enter the username");
+    //System.out.println("Enter the username");    
     log.info("Enter the username");
         
     lp.sendpassword();        //password
